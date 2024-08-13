@@ -1,7 +1,7 @@
 import "./App.css";
 import React from "react";
 import ProfilePage from "./ProfilePage";
-import UserContext from "./UserContext";
+import UserContext from "./UserContext.jsx";
 
 function App() {
   const userData = {
