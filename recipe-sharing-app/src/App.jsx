@@ -8,12 +8,11 @@ function App() {
 
   return (
     <>
-      {/* <AddRecipeForm /> */}
       <Router>
         <Routes>
-          <Route path='/add-recipe' element={<AddRecipeForm />} />
-          <Route path="/home" element={<RecipeList />} />
-          <Route path="/recipes/:recipeId" element={<RecipeDetails />} />
+          <Route path='/add' element={<AddRecipeForm />} />
+          <Route path="/" element={<RecipeList />} />
+          <Route path="/recipes" element={<RecipeDetails />} />
         </Routes>
       </Router>
     </>
