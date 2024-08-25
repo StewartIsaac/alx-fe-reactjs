@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import useRecipeStore from './recipeStore';
 
 const RecipeList = () => {
@@ -7,10 +8,10 @@ const RecipeList = () => {
         <div>
             <SearchBar />
             {recipes.map(recipe => (
-                <div key={recipe.id}>
+                <Link key={recipe.id}>
                     <h3>{recipe.title}</h3>
                     <p>{recipe.description}</p>
-                </div>
+                </Link>
             ))}
         </div>
     );
