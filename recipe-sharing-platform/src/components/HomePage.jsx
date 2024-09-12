@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { Link } from "react-router-dom";
 import data from "../data.json";
 
 export default function HomePage() {
@@ -17,7 +18,7 @@ export default function HomePage() {
                         <img src={recipe.image} alt={recipe.title} className="w-full h-32 sm:h-52 object-cover rounded-lg" />
                         <h2 className="text-gray-900 text-xl sm:text-2xl font-semibold mt-2 hover:text-green-600">{recipe.title}</h2>
                         <p className="text-gray-600 sm:text-lg">{recipe.summary}</p>
-                        <a href={`/recipe/${recipe.id}`} className="text-blue-500 hover:underline mt-2 block">View Recipe</a>
+                        <Link to={`/recipe/${recipe.id}`} className="text-blue-500 hover:underline mt-2 block">View Recipe</Link>
                     </div>
                 ))}
             </div>
