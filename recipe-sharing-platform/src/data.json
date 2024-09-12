@@ -3,36 +3,165 @@
         "id": 1,
         "title": "Spaghetti Carbonara",
         "summary": "A classic Italian pasta dish with eggs, cheese, bacon, and black pepper.",
-        "image": "https://cdn.dummyjson.com/recipe-images/4.webp"
+        "image": "https://cdn.dummyjson.com/recipe-images/4.webp",
+        "ingredients": [
+            "200g spaghetti",
+            "100g pancetta",
+            "2 large eggs",
+            "50g pecorino cheese",
+            "50g parmesan",
+            "Freshly ground black pepper",
+            "Salt"
+        ],
+        "instructions": [
+            "Put a large saucepan of water on to boil.",
+            "Finely chop the pancetta, having first removed any rind.",
+            "Beat the eggs in a medium bowl, season with a little freshly grated black pepper and set everything aside.",
+            "Add the pancetta to the pan and sauté for about 5 minutes, until the pancetta is golden and crisp.",
+            "Add the spaghetti to the boiling water and cook according to the packet instructions.",
+            "Keep the heat under the pancetta on low. When the pasta is ready, lift it from the water with a pasta fork or tongs and put it in the frying pan with the pancetta.",
+            "Take the pan of spaghetti and pancetta off the heat. Quickly pour in the eggs and cheese. Using the tongs or a long fork, lift up the spaghetti so it mixes easily with the egg mixture, which thickens but doesn’t scramble, and everything is coated.",
+            "Serve immediately with a little sprinkling of the remaining cheese and a grating of black pepper."
+        ]
     },
     {
         "id": 2,
         "title": "Chicken Tikka Masala",
         "summary": "Chunks of grilled chicken (tikka) cooked in a smooth buttery & creamy tomato based gravy.",
-        "image": "https://cdn.dummyjson.com/recipe-images/12.webp"
+        "image": "https://cdn.dummyjson.com/recipe-images/12.webp",
+        "ingredients": [
+            "500g chicken breast",
+            "1 cup yogurt",
+            "2 tbsp lemon juice",
+            "2 tsp ground cumin",
+            "2 tsp ground coriander",
+            "1 tsp turmeric",
+            "1 tsp garam masala",
+            "1 tsp paprika",
+            "4 cloves garlic",
+            "1 inch ginger",
+            "1 can tomato puree",
+            "1 cup heavy cream",
+            "Salt"
+        ],
+        "instructions": [
+            "Cut the chicken into bite-sized pieces and marinate with yogurt, lemon juice, and spices for at least 1 hour.",
+            "Preheat the grill to high heat.",
+            "Thread the chicken onto skewers and grill until cooked through, about 5-7 minutes per side.",
+            "In a large pan, heat oil and sauté garlic and ginger until fragrant.",
+            "Add tomato puree and cook for a few minutes.",
+            "Add grilled chicken pieces and heavy cream. Simmer for 10-15 minutes.",
+            "Serve hot with rice or naan."
+        ]
     },
     {
         "id": 3,
         "title": "Classic Margherita Pizza",
         "summary": "Made with fresh marinara sauce, mozzarella cheese, and basil, Margherita pizza is simple, classic, and absolutely delicious!",
-        "image": "https://cdn.dummyjson.com/recipe-images/1.webp"
+        "image": "https://cdn.dummyjson.com/recipe-images/1.webp",
+        "ingredients": [
+            "1/4 cup olive oil",
+            "1 tablespoon minced garlic",
+            "1/2 teaspoon sea salt",
+            "8 Roma tomatoes, sliced",
+            "2 (12 inch) pre-baked pizza crusts",
+            "8 ounces shredded Mozzarella cheese",
+            "4 ounces shredded Fontina cheese",
+            "10 fresh basil leaves, washed, dried",
+            "1/2 cup freshly grated Parmesan cheese",
+            "1/2 cup crumbled feta cheese"
+        ],
+        "instructions": [
+            "Stir together olive oil, garlic, and salt; toss with tomatoes, and allow to stand for 15 minutes.",
+            "Preheat oven to 400 degrees F (200 degrees C).",
+            "Brush each pizza crust with some of the tomato marinade. Sprinkle the pizzas evenly with Mozzarella and Fontina cheeses. Arrange tomatoes overtop, then sprinkle with shredded basil, Parmesan, and feta cheese.",
+            "Bake in preheated oven until the cheese is bubbly and golden brown, about 10 minutes."
+        ]
     },
     {
         "id": 4,
         "title": "Chicken Biryani",
         "summary": "Chunks of grilled chicken (tikka) cooked in a smooth buttery & creamy tomato based gravy.",
-        "image": "https://cdn.dummyjson.com/recipe-images/11.webp"
+        "image": "https://cdn.dummyjson.com/recipe-images/11.webp",
+        "ingredients": [
+            "basmati rice (2 cups)",
+            "chicken thighs (1 pound)",
+            "yogurt (1/2 cup)",
+            "lemon juice (1 tablespoon)",
+            "ginger-garlic paste (2 tablespoons)",
+            "garam masala (1 teaspoon)",
+            "turmeric powder (1/2 teaspoon)",
+            "cumin powder (1 teaspoon)",
+            "coriander powder (1 teaspoon)",
+            "salt (to taste)",
+            "bay leaves (2 pieces)",
+            "cardamom pods (4 pieces)",
+            "cloves (4 pieces)",
+            "cinnamon stick (1 piece)",
+            "onions (2 pieces)",
+            "vegetable oil (3 tablespoons)",
+            "water (3 cups)"
+        ],
+        "instructions": [
+            "Wash the basmati rice and soak it in water for 30 minutes.",
+            "Marinate the chicken thighs with yogurt, lemon juice, ginger-garlic paste, garam masala, turmeric powder, cumin powder, coriander powder, and salt. Let it marinate for at least 30 minutes.",
+            "Heat vegetable oil in a large pot over medium heat. Add bay leaves, cardamom pods, cloves, and cinnamon stick. Fry until fragrant.",
+            "Add the marinated chicken thighs to the pot and cook until browned on all sides.",
+            "Add the onions and cook until softened and golden brown.",
+            "Add the rice, water, and salt to the pot. Bring to a boil, then reduce heat to low and simmer for 20-25 minutes, or until the rice is tender and the liquid is absorbed.",
+            "Let the biryani rest for 5-10 minutes before serving."
+        ]
     },
     {
         "id": 5,
         "title": "Chocolate Chip Cookies",
         "summary": "Sweet treats that are known for their chocolate chips and buttery flavor.",
-        "image": "https://cdn.dummyjson.com/recipe-images/3.webp"
+        "image": "https://cdn.dummyjson.com/recipe-images/3.webp",
+        "ingredients": [
+            "8 tablespoons of salted butter",
+            "1/2 cup white sugar (I like to use raw cane sugar with a coarser texture)",
+            "1/4 cup packed light brown sugar",
+            "1 teaspoon vanilla",
+            "1 egg",
+            "1 1/2 cups all purpose flour (more as needed - see video)",
+            "1/2 teaspoon baking soda",
+            "1/4 teaspoon salt (but I always add a little extra)",
+            "3/4 cup chocolate chips (I use a combination of chocolate chips and chocolate chunks)"
+        ],
+        "instructions": [
+            "Preheat the oven to 350 degrees. Microwave the butter for about 40 seconds to just barely melt it. It shouldn't be hot - but it should be almost entirely in liquid form.",
+            "Using a stand mixer or electric beaters, beat the butter with the sugars until creamy. Add the vanilla and the egg; beat on low speed until just incorporated - 10-15 seconds or so (if you beat the egg for too long, the cookies will be stiff).",
+            "Add the flour, baking soda, and salt. Mix until crumbles form. Use your hands to press the crumbles together into a dough. It should form one large ball that is easy to handle (right at the stage between wet dough and dry dough). Add the chocolate chips and incorporate with your hands.",
+            "Roll the dough into 12 large balls (or 9 for HUGELY awesome cookies) and place on a cookie sheet. Bake for 9-11 minutes until the cookies look puffy and dry and just barely golden.Warning, friends: DO NOT OVERBAKE. This advice is probably written on every cookie recipe everywhere, but this is essential for keeping the cookies soft. Take them out even if they look like they're not done yet (see picture in the post). They'll be pale and puffy.",
+            "Let them cool on the pan for a good 30 minutes or so (I mean, okay, eat four or five but then let the rest of them cool). They will sink down and turn into these dense, buttery, soft cookies that are the best in all the land. These should stay soft for many days if kept in an airtight container. I also like to freeze them."
+        ]
     },
     {
         "id": 6,
         "title": "Beef and Broccoli Stir-Fry",
         "summary": "A classic dish of beef sauteed with fresh broccoli florets and coated in a savory sauce.",
-        "image": "https://cdn.dummyjson.com/recipe-images/8.webp"
+        "image": "https://cdn.dummyjson.com/recipe-images/8.webp",
+        "ingredients": [
+            "beef sirloin steak (1 pound)",
+            "broccoli florets (1 head)",
+            "soy sauce (1/4 cup)",
+            "rice vinegar (1/4 cup)",
+            "honey (1 tablespoon)",
+            "garlic cloves (2, minced)",
+            "ginger (1 tablespoon, grated)",
+            "sesame oil (1 tablespoon)",
+            "cornstarch (1 tablespoon)",
+            "water (2 tablespoons)",
+            "vegetable oil (1 tablespoon)"
+        ],
+        "instructions": [
+            "Cut the beef sirloin steak into thin strips.",
+            "In a small bowl, combine soy sauce, rice vinegar, honey, garlic, ginger, sesame oil, cornstarch, and water. Mix well.",
+            "Toss the beef strips in the marinade and let them sit for 15 minutes.",
+            "Heat vegetable oil in a large skillet over high heat.",
+            "Add the beef strips and stir-fry until browned.",
+            "Add the broccoli florets and stir-fry for 2-3 minutes, or until tender-crisp.",
+            "Pour the marinade over the beef and broccoli and stir-fry for 1 minute more, or until the sauce coats the ingredients."
+        ]
     }
 ]
