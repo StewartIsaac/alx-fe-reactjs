@@ -28,5 +28,11 @@
         "title": "Chocolate Chip Cookies",
         "summary": "Sweet treats that are known for their chocolate chips and buttery flavor.",
         "image": "https://cdn.dummyjson.com/recipe-images/3.webp"
+    },
+    {
+        "id": 6,
+        "title": "Beef and Broccoli Stir-Fry",
+        "summary": "A classic dish of beef sauteed with fresh broccoli florets and coated in a savory sauce.",
+        "image": "https://cdn.dummyjson.com/recipe-images/8.webp"
     }
 ]
