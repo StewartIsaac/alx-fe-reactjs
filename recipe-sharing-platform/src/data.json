@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Spaghetti Carbonara",
+        "summary": "A classic Italian pasta dish with eggs, cheese, bacon, and black pepper.",
+        "image": "https://cdn.dummyjson.com/recipe-images/4.webp"
+    },
+    {
+        "id": 2,
+        "title": "Chicken Tikka Masala",
+        "summary": "Chunks of grilled chicken (tikka) cooked in a smooth buttery & creamy tomato based gravy.",
+        "image": "https://cdn.dummyjson.com/recipe-images/12.webp"
+    },
+    {
+        "id": 3,
+        "title": "Classic Margherita Pizza",
+        "summary": "Made with fresh marinara sauce, mozzarella cheese, and basil, Margherita pizza is simple, classic, and absolutely delicious!",
+        "image": "https://cdn.dummyjson.com/recipe-images/1.webp"
+    },
+    {
+        "id": 4,
+        "title": "Chicken Biryani",
+        "summary": "Chunks of grilled chicken (tikka) cooked in a smooth buttery & creamy tomato based gravy.",
+        "image": "https://cdn.dummyjson.com/recipe-images/11.webp"
+    },
+    {
+        "id": 5,
+        "title": "Chocolate Chip Cookies",
+        "summary": "Sweet treats that are known for their chocolate chips and buttery flavor.",
+        "image": "https://cdn.dummyjson.com/recipe-images/3.webp"
+    }
+]
