@@ -12,6 +12,7 @@ export default function HomePage() {
     return (
         <div className="container mx-auto p-4 hover:shadow-md text-center">
             <h1 className="text-3xl font-bold my-4 sm:mb-8 sm:text-5xl">Recipe Sharing App</h1>
+            <Link to="/add-recipe" className="text-blue-500 hover:underline mb-8 block">Add New Recipe</Link>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 {recipes.map((recipe) => (
                     <div key={recipe.id} className="bg-white rounded-lg shadow-md p-4">
