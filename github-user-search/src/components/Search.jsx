@@ -40,7 +40,7 @@ const Search = () => {
 
     return (
         <div className="p-6 bg-gray-100 min-h-screen">
-            <h1 className="text-3xl font-bold text-center mb-8">GitHub Advanced User Search</h1>
+            <h1 className="text-3xl font-bold text-center mb-8 mt-32">GitHub Advanced User Search</h1>
             <form className="max-w-xl mx-auto space-y-4" onSubmit={handleSearch}>
                 <div>
                     <input
@@ -66,10 +66,10 @@ const Search = () => {
                         placeholder="Minimum Repositories"
                         value={repos}
                         onChange={(e) => setRepos(e.target.value)}
-                        className="w-full px-4 py-2 border border-gray-300 rounded-md"
+                        className="w-full px-4 py-2 border border-gray-250 rounded-md"
                     />
                 </div>
-                <button type="submit" className="w-full bg-blue-500 text-white py-2 rounded-md hover:bg-blue-600">
+                <button type="submit" className="w-full bg-slate-700 text-white py-2 rounded-md hover:bg-slate-950">
                     Search
                 </button>
             </form>
